@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Api-Movies/static/css/main.97aacdbd.chunk.css",
+    "main.js": "/ReactJS-Api-Movies/static/js/main.723e2015.chunk.js",
+    "main.js.map": "/ReactJS-Api-Movies/static/js/main.723e2015.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Api-Movies/static/js/runtime-main.12ba0a9a.js",
+    "runtime-main.js.map": "/ReactJS-Api-Movies/static/js/runtime-main.12ba0a9a.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/ReactJS-Api-Movies/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7b62e920.chunk.js": "/ReactJS-Api-Movies/static/js/2.7b62e920.chunk.js",
+    "static/js/2.7b62e920.chunk.js.map": "/ReactJS-Api-Movies/static/js/2.7b62e920.chunk.js.map",
+    "index.html": "/ReactJS-Api-Movies/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/ReactJS-Api-Movies/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.97aacdbd.chunk.css.map": "/ReactJS-Api-Movies/static/css/main.97aacdbd.chunk.css.map",
+    "static/js/2.7b62e920.chunk.js.LICENSE.txt": "/ReactJS-Api-Movies/static/js/2.7b62e920.chunk.js.LICENSE.txt",
+    "static/media/logo.800ff118.png": "/ReactJS-Api-Movies/static/media/logo.800ff118.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ba0a9a.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.7b62e920.chunk.js",
+    "static/css/main.97aacdbd.chunk.css",
+    "static/js/main.723e2015.chunk.js"
+  ]
+}
